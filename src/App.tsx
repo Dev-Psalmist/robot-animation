@@ -94,7 +94,7 @@ export default function App(): ReactElement {
             </p>
 
             <a
-              href="mailto:hello@example.com?subject=Free%20prosthetic%20fitting"
+              href="#fitting"
               className="group inline-flex items-center gap-2 rounded-full border border-blue-400 px-5 py-2.5 text-[13px] font-medium text-blue-500 transition-all duration-200 hover:border-blue-500 hover:bg-blue-500 hover:text-white"
             >
               Try a free fitting
